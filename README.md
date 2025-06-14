@@ -1,4 +1,4 @@
-#VRINDA-STORE-DATA-ANAYSIS (INTERACTIVE DASHBOARD CREATION USING MS-EXCEL)
+# VRINDA-STORE-DATA-ANAYSIS (INTERACTIVE DASHBOARD CREATION USING MS-EXCEL)
 
 ## Project Overview
 The vrinda store wants to create an annual sales report sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
